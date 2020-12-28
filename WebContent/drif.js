@@ -1,3 +1,3 @@
 var aisatsu = function() {
-	alert("オイース");
+	alert("オイース! 俺がいかりやだ！");
 }
