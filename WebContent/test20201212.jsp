@@ -9,7 +9,7 @@
 </head>
 <body>
 <h1>いかりやです</h1>
-<p id="aisatsu" onclick="aisatsu()">オイース</p>
+<p id="aisatsu" onclick="aisatsu()">あいさつ</p>
 
 
 </body>
